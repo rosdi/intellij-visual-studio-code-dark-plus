@@ -5,7 +5,7 @@
   "editorScheme": "/visual_studio_code_dark_plus.xml",
   "ui": {
     "*": {
-      "background": "#323232"
+      "background": "#262626"
     },
     "Borders": {
       "color": "#323232",
@@ -21,8 +21,8 @@
       "borderColor": "#323232"
     },
     "Panel" : {
-      "foreground": "#acacac",
-      "background": "#323232"
+      "foreground": "#ffffff",
+      "background": "#262626"
     },
     "Tree": {
       "background": "#242425",
@@ -31,7 +31,7 @@
       "selectionForeground": "#f8fafb"
     },
     "Menu": {
-      "background": "#323232",
+      "background": "#262626",
       "foreground": "#cbcbc2",
       "borderColor": "#141414",
       "separatorColor": "#606060"
@@ -65,7 +65,7 @@
     "ToolWindow": {
       "Header": {
         "borderColor": "#323232",
-        "background": "#323232",
+        "background": "#262626",
         "inactiveBackground": "#323232"
       }
     }
